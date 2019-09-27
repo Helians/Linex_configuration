@@ -1,8 +1,8 @@
-**SSH port: 2200**
-**IP address: 13.235.19.244**
-**Application url: http://13.235.19.244.xip.io/catalog**
-**For SSH login, use: `ssh -i ~/.ssh/grader_key.pem -p 2200 grader@13.235.19.244`**
-**ssh key needs to be placed in .ssh folder**
+- **SSH port: 2200**
+- **IP address: 13.235.19.244**
+- **Application url: http://13.235.19.244.xip.io/catalog**
+- **For SSH login, use: `ssh -i ~/.ssh/grader_key.pem -p 2200 grader@13.235.19.244`**
+- **ssh key needs to be placed in .ssh folder**
 
 # Linex_configuration(Securing the server)
 
