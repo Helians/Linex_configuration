@@ -4,7 +4,7 @@
 - **For SSH login, use: `ssh -i ~/.ssh/grader_key.pem -p 2200 grader@13.235.19.244`**
 - **ssh key needs to be placed in .ssh folder**
 
-# Linex_configuration(Securing the server)
+# Linux_configuration(Securing the server)
 
 ## 1. Updating and Upgrading Packages og linux
 - `sudo apt-get update && sudo apt-get upgrade`
